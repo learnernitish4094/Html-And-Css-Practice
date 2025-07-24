@@ -1,0 +1,129 @@
+Bilkul Nitish! Ab main tumhe ek **updated and upgraded** version deta hoon — jisme tumhare saare concepts include ho rahe hain:
+✅ HTML
+✅ CSS
+✅ Semantic tags
+✅ Table
+✅ Image
+✅ Video
+✅ Selectors + Box model + Units + Specificity
+✅ Real-world practical layout
+
+---
+
+### 🧠 **Final Practice Exercise – Vacation Booking Web Page (Full Revision)**
+
+**Task:**
+Ek **travel agency** ke liye complete **Vacation Booking Web Page** banao, jisme form ke saath **image, video, table, semantic HTML** ka use ho. Page professional aur visually attractive hona chahiye.
+
+---
+
+### 🔧 **Client Brief (Hinglish me):**
+
+> Nitish bhai, hume ek travel website ke liye ek page chahiye jisme customer **vacation book kar sake**.
+> Page me form ke alawa ek **image**, ek **video**, aur ek **table** bhi honi chahiye.
+> Har part **semantic HTML** se likha ho, aur tumhari ab tak ki HTML + CSS ki knowledge ka full use dikhe.
+
+---
+
+### 📄 **HTML Instructions (Structure aur Content):**
+
+#### ✅ Page Structure:
+
+Use the following semantic tags:
+
+| Tag         | Purpose                                                                 |
+| ----------- | ----------------------------------------------------------------------- |
+| `<header>`  | Page ka top section (logo, title, nav bar)                              |
+| `<main>`    | Main content (form, image, video, table sab yahin ho)                   |
+| `<section>` | Alag-alag parts divide karne ke liye (jaise form section, info section) |
+| `<form>`    | Booking form ke liye                                                    |
+| `<article>` | Optional - agar kisi section ko highlight karna ho                      |
+| `<aside>`   | Optional - kisi side message ya ad ke liye                              |
+| `<footer>`  | Niche contact ya copyright info                                         |
+
+---
+
+#### ✅ Content Details:
+
+1. **Page Title:** `Book Your Dream Vacation | TravelEasy`
+
+2. **Heading:** `<h1>Plan Your Dream Vacation!</h1>`
+
+3. **Image:** Ek image lagao (vacation/journey theme wali)
+
+4. **Video:** Ek video embed karo (YouTube ka ya local file ka travel video)
+
+5. **Booking Form Fields:**
+
+   * Full Name (text)
+   * Email
+   * Phone Number
+   * Destination (Goa, Manali, Kerala, Andaman) – dropdown
+   * Travel Date
+   * Number of Travelers
+   * Package Type (Budget, Standard, Luxury) – radio
+   * Special Requests – textarea
+   * Submit Button
+
+6. **Table:**
+   Ek table banao jisme 3 travel packages ka comparison ho:
+
+| Package  | Features              | Price   |
+| -------- | --------------------- | ------- |
+| Budget   | Stay + Bus            | ₹10,000 |
+| Standard | Stay + Flight         | ₹20,000 |
+| Luxury   | Stay + Flight + Meals | ₹35,000 |
+
+> Table ko semantic and styled banaana, theek tarike se border, padding dikhna chahiye.
+
+---
+
+### 🎨 **CSS Instructions (Design and Layout):**
+
+✅ Use the following:
+
+* Inline CSS – kisi 1 chhoti cheez ke liye
+* Internal CSS – `<style>` tag ke andar
+* External CSS file ka dummy link
+  (e.g., `<link rel="stylesheet" href="styles.css">`)
+
+✅ Selectors ka use:
+
+* Element, Class, ID, Child `>`, Descendant `div p`, Universal `*`
+* Pseudo selectors: `:hover`, `:focus`, `:first-child`, etc.
+
+✅ Visual Concepts:
+
+* Box Model: `margin`, `padding`, `border`
+* Font: `font-family`, `font-size`, `font-style`
+* Color: background, text-color
+* Units: `px`, `%, vw`, `vh`, `em`, `rem`, `vmin`, `vmax`
+* Specificity aur cascade ka practical example
+
+✅ Bonus Features:
+
+* Responsive try karo (media query optional)
+* Form inputs me hover aur focus effect
+* Background gradient ya image try kar sakte ho
+
+---
+
+### ✅ Final Output Expectations:
+
+* Clean layout
+* Mobile + Desktop dono pe achha dikhe
+* Har HTML concept ka actual use
+* Stylish aur functional form
+* Image, Video, Table sahi jagah pe ho
+* CSS styling neat ho
+* Semantic structure sahi use ho
+
+---
+
+Jab complete ho jaye, toh bolna:
+**“Sir, kaam ready hai — review kar lijiye.”**
+
+Aur agar help chahiye beech me toh bolo:
+**“Sir, ek part me doubt hai.”**
+
+Main yahin hoon support ke liye. All the best developer sahab! 💻🔥
